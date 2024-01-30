@@ -10,7 +10,7 @@ This repository contains all the project files and necessary details about appli
 | Project Versatility :page_with_curl:     | Reference documentation of how to plug in any general recommendation model into this project and host it on servers | [:point_down:Refer](https://github.com/minjungsung/AI-movie-recommendation#4-project-guide)                           |
 | Troubleshooting Issues :muscle:          | Guide to resolve errors faced during reproducibility                                                                | To be Updated                                                                                                         |
 
-Do you like it? :heart: Follow me on [Twitter](https://twitter.com/minjungsung), [GitHub](https://github.com/minjungsung), & [LinkedIn](https://www.linkedin.com/in/praveen-kumar-inbox/) to say Hi :wave:
+Do you like it? :heart: Follow me on [Twitter](https://twitter.com/minjungsung0527), [GitHub](https://github.com/minjungsung), & [LinkedIn](https://www.linkedin.com/in/minjung-sung-2bb6b0117/) to say Hi :wave:
 
 <hr>
 

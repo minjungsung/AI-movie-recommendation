@@ -13,6 +13,7 @@ lib64/
 parts/
 sdist/
 var/
+env/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -24,3 +25,5 @@ pip-delete-this-directory.txt
 # Django stuff:
 *.log
 *.pot
+
+**/.DS_Store
