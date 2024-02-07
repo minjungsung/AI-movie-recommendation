@@ -62,19 +62,11 @@ To build this project without any errors/issues, the following requirements need
 
 For complete guide to training your model and inference using the trained model, refer to "[Movie Recommendation System Python Notebook](https://github.com/minjungsung/AI-movie-recommendation/blob/master/Movie_Recommendation_System_Complete_Guide.ipynb)".
 
-#### 3.2 Django Web Application Integration
-
-[Here is a detailed blog](https://medium.com/analytics-vidhya/AI-movie-recommendation-python-flask-web-application-heroku-deployment-7e39492b640c) explaining about complete approach and directory structure essential to understand Django integration.
-
 <hr>
 
 ## 4. Project Guide
 
-#### 4.1 Running it OnRender Free Cloud
-
-[Here is a detailed blog](https://medium.com/analytics-vidhya/AI-movie-recommendation-python-flask-web-application-heroku-deployment-7e39492b640c) explaining about complete approach and essential details to deploy not just this application but also any other web-application you like to built.
-
-#### 4.2 Running in Local
+#### 4.1 Running in Local
 
 I am assuming you have completed [section 2](https://github.com/minjungsung/AI-movie-recommendation#2-requirements-heavy_check_mark) in the above reference for creating your environment. Let's start by activating it.
 
